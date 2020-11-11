@@ -1,2 +1,2 @@
 # Bert_LDA_Combo
-Topic mediling using BERT and LDA combination.
+Topic modeling using BERT and LDA combination (Tensorflow+Keras).
